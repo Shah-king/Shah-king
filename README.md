@@ -6,6 +6,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a chill person
 
+Tech Stack:
+Programming Languages: JavaScript TypeScript Python C++
+
+Frameworks: Next JS React Express Flask TailwindCSS
+
+Developer Tools: AWS MySQL Firebase Postman Node.js
 <!---
 Shah-king/Shah-king is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
