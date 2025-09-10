@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing soccer, go on road trips
 - 🌱 I’m currently learning how to integrate AI in my projects
 - 💞️ I’m looking to collaborate on projects that alludes to solve real world problems
-- 📫 How to reach me https://www.linkedin.com/in/shahriar-f/ 
+- 📫 How to reach me https://www.linkedin.com/in/ferdous-shahriar/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a chill person
 
