@@ -50,7 +50,7 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 | Project                                                                    | Description                                                                                                                     | Tech                            |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | [SayLess](https://github.com/Shah-king/SayLess)    | Built an AI web app using **Next.js**, **React**, **Typescript** and **Gemini** that joins real-time meetings, speaks naturally in a chosen voice, and actively participates in conversations.         |React, TypeScript, Tailwind, Node.js, Express.js, Gemini API|
-| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)                      | Developed a Book Review Sentiment Analysis using **Pandas**, **NumPy**, and **Scikit-learn**,  enabling more accurate customer-feedback classification              |Pandas, NumPy, Scikit-learn, Tensorflow|
+| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)                      | Developed a Book Review Sentiment Analysis using **Pandas**, **NumPy**, and **Scikit-learn**,  enabling more accurate customer-feedback.              |Pandas, NumPy, Scikit-learn, Tensorflow|
 | [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and  **Pytorch**. |Python, Pandas, NumPy, Scikit-learn, pytorch|
 
 ---
