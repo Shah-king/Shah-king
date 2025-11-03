@@ -1,28 +1,86 @@
-- 👋 Hi, I’m @Shah-king (Shahriar)
-- 👀 I’m interested in playing soccer, go on road trips
-- 🌱 I’m currently learning how to integrate AI in my projects
-- 💞️ I’m looking to collaborate on projects that alludes to solve real world problems
-- 📫 How to reach me https://www.linkedin.com/in/ferdous-shahriar/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a chill person
+# Hi there, I'm Shahriar 👋
 
+🚀 **Aspiring Software Engineer** with a strong passion for **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
+I love building clean, scalable, and impactful solutions that solve real-world problems.
 
-## Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+---
 
-## Frameworks:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### 💡 About Me
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<!---
-Shah-king/Shah-king is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🌱 Currently learning how to integrate **AI/ML** into my projects
+* 💻 Exploring technologies like **React**, **Node.js**, and **AWS**
+* ⚙️ Focused on writing clean, maintainable code
+* ⚽ Love playing soccer and going on road trips
+* 💬 Open to collaborations on innovative projects
+* 😄 Pronouns: He/Him
+* ✨ Fun fact: I’m a chill person who enjoys debugging complex problems
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ferdous-shahriar/)
+
+---
+
+### 🧠 Technical Skills
+
+#### **Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+#### **Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+#### **Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project                                                                    | Description                                                                                                                     | Tech                            |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [SayLess](https://github.com/Shah-king/SayLess)    | Built an intelligent ai bot using **Next.js**, **React**, **Typescript** and **Gemini** that joins real-time meetings, speaks naturally in a chosen voice, and actively participates in conversations.         |React, TypeScript, Tailwind, Node.js, Express.js, Gemini API|
+| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)                      | Developed a Book Review Sentiment Analysis using **Pandas**, **NumPy**, and **Scikit-learn**,  enabling more accurate customer-feedback classification
+for product improvements.                |Pandas, NumPy, Scikit-learn, Tensorflow|
+| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and  **Pytorch**. |Python, Pandas, NumPy, Scikit-learn, pytorch|
+
+---
+
+### 🏆 GitHub Highlights
+
+* 💻 Contributions to open-source, academic, and personal projects
+* 🔄 Experience with **version control**, **code reviews**, and **collaborative development**
+* 🌟 Continuously exploring modern technologies and frameworks
+
+---
+
+### 📊 GitHub Stats
+
+![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shah-king\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-king\&layout=compact\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shah-king\&theme=tokyonight\&hide_border=true)
+
+---
+
+### 📈 Activity Graph
+
+![Shahriar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shah-king\&bg_color=1a1b27\&color=70a5fd\&line=70a5fd\&point=1b9aaa\&area=true\&hide_border=true)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ferdous-shahriar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shah-king)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-orange?style=for-the-badge)](https://shahriarf.netlify.app/)
+📧 ***sferdous463@gmail.com
