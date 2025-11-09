@@ -81,5 +81,4 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ferdous-shahriar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shah-king)
-[![Portfolio](https://shahriarf.netlify.app/)
-📧 ***sferdous463@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahriarf.netlify.app-blue?style=for-the-badge&logo=netlify)](https://shahriarf.netlify.app/)
