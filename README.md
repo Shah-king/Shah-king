@@ -65,11 +65,7 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 ### 📊 GitHub Stats
 
-![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shah-king&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-king&layout=compact&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shah-king&theme=transparent)
+![Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Shah-king&show_icons=true&theme=transparent)
 
 ---
 
