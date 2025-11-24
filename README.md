@@ -65,10 +65,11 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 ### 📊 GitHub Stats
 
-![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shah-king&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-king&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shah-king&theme=tokyonight&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shah-king&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahriar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-king&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Shah-king&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📈 Activity Graph
