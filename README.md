@@ -13,7 +13,7 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 - ⚽ Love playing soccer and going on road trips  
 - 💬 Open to collaborations on innovative projects  
 - 😄 Pronouns: He/Him  
-- ✨ Fun fact: I’m a chill person who enjoys debugging complex problems  
+- ✨ Fun fact: I enjoy debugging complex problems  
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ferdous-shahriar/)
 
@@ -21,14 +21,14 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 ### 🧠 Technical Skills
 
-#### **Languages**
+#### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### **Frameworks & Tools**
+#### Frameworks & Tools
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -37,7 +37,7 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### **Databases & Cloud**
+#### Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -49,9 +49,9 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [SayLess](https://github.com/Shah-king/SayLess) | Built an AI web app using **Next.js**, **React**, **Typescript**, and **Gemini** that joins real-time meetings, speaks naturally in a chosen voice, and actively participates in conversations. | React, TypeScript, Tailwind, Node.js, Express.js, Gemini API |
-| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe) | Developed book review sentiment analysis using **Pandas**, **NumPy**, and **Scikit-learn**, enabling more accurate customer feedback insights. | Pandas, NumPy, Scikit-learn, TensorFlow |
-| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and **PyTorch**. | Python, Pandas, NumPy, Scikit-learn, PyTorch |
+| [SayLess](https://github.com/Shah-king/SayLess) | Built an AI web app using **Next.js**, **React**, **Typescript**, and **Gemini** that joins real-time meetings, speaks naturally in a chosen voice, ... | Next.js, TypeScript |
+| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe) | Developed book review sentiment analysis using **Pandas**, **NumPy**, and **Scikit-learn**, enabling more accurate customer feedback analysis. | Python, scikit-learn |
+| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and **PyTorch**. | Python, PyTorch |
 
 ---
 
