@@ -13,7 +13,7 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 - ⚽ Love playing soccer and going on road trips  
 - 💬 Open to collaborations on innovative projects  
 - 😄 Pronouns: He/Him  
-- ✨ Fun fact: I enjoy debugging complex problems  
+- ✨ Fun fact: I love hiking  
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ferdous-shahriar/)
 
