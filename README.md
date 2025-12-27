@@ -51,13 +51,11 @@ I love building clean, scalable, and impactful solutions that solve real-world p
 
 | Project | Description | Tech |
 |--------|-------------|------|
-
 | [ForgeArena](https://github.com/Shah-king/ForgeArena) | Built a full-stack RESTful API app using **Node.js**, **Express**, and **Firebase** with 8+ endpoints for user authentication, workout tracking, quest management, and leaderboards. | Node.js, Express, Firebase, Jest |
-| [SayLess](https://github.com/Shah-king/SayLess) | Built an AI web app using **Next.js**, **React**, **Typescript**, and **Gemini** that joins real-time meetings, speaks naturally in a chosen voice, ... | Next.js, TypeScript |
-| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe) | Developed book review sentiment analysis using **Pandas**, **NumPy**, and **Scikit-learn**, enabling more accurate customer feedback analysis. | Python, scikit-learn |
-| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and **PyTorch**. | Python, PyTorch |
+| [SayLess](https://github.com/Shah-king/SayLess) | Built an AI web app using **Next.js**, **React**, **TypeScript**, and **Gemini** that joins real-time meetings and speaks naturally in a chosen voice. | Next.js, React, TypeScript, Gemini |
+| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe) | Developed book review sentiment analysis using **Pandas**, **NumPy**, and **Scikit-learn**, enabling more accurate customer feedback analysis. | Python, Pandas, NumPy, Scikit-learn |
+| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and **PyTorch**. | Python, Scikit-learn, PyTorch |
 
----
 
 ### 🏆 GitHub Highlights
 
