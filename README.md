@@ -30,7 +30,8 @@ I'm a software engineer who loves turning ideas into clean, working products —
 
 Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles live audio synthesis and voice cloning in the browser.
 
-![SayLess Demo](https://raw.githubusercontent.com/Shah-king/SayLess/main/demo.png)
+![SayLess Demo](<img width="935" height="455" alt="image" src="https://github.com/user-attachments/assets/9181723b-8bd5-4b66-bf7b-66f78f6ebc74" />
+)
 <!-- Replace the above path with your actual screenshot path, e.g. public/screenshot.png or assets/preview.png -->
 
 `Next.js` `React` `TypeScript` `Gemini`
