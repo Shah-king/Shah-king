@@ -1,93 +1,105 @@
-# Hi there, I'm Shahriar 👋
+<div align="center">
 
-🚀 **Aspiring Software Engineer** with a strong passion for **Machine Learning (ML)** and **Artificial Intelligence (AI)**.  
-I love building clean, scalable, and impactful solutions that solve real-world problems.
+# Hey, I'm Shahriar 👋
 
----
+**Aspiring Software Engineer** passionate about building intelligent, scalable systems at the intersection of **AI/ML** and modern web development.
 
-### 💡 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdous-shahriar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahriarf.netlify.app-4A90D9?style=flat-square&logo=netlify)](https://shahriarf.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Shah--king-181717?style=flat-square&logo=github)](https://github.com/Shah-king)
 
-- 🌱 Currently learning how to integrate **AI/ML** into my projects  
-- 💻 Exploring technologies like **React**, **Node.js**, and **AWS**  
-- ⚙️ Focused on writing clean, maintainable code  
-- ⚽ Love playing soccer and going on road trips  
-- 💬 Open to collaborations on innovative projects  
-- 😄 Pronouns: He/Him  
-- ✨ Fun fact: I love hiking  
-
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ferdous-shahriar/)
+</div>
 
 ---
 
-### 🧠 Technical Skills
+## About Me
 
-#### Languages
+I'm a software engineer who loves turning ideas into clean, working products — especially when they involve AI. Right now I'm focused on integrating ML models into full-stack applications and deepening my cloud and backend skills.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Frameworks & Tools
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### AI/ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=white)
+- 🤖 Building AI-powered apps with **React**, **Next.js**, and **PyTorch**
+- ☁️ Exploring cloud-native architecture with **AWS** and **Docker**
+- 🧠 Interested in NLP, sentiment analysis, and predictive modeling
+- ⚽ When I'm not coding: hiking, soccer, and road trips
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [ForgeArena](https://github.com/Shah-king/ForgeArena) | Built a full-stack RESTful API app using **Node.js**, **Express**, and **Firebase** with 8+ endpoints for user authentication, workout tracking, quest management, and leaderboards. | Node.js, Express, Firebase, Jest |
-| [SayLess](https://github.com/Shah-king/SayLess) | Built an AI web app using **Next.js**, **React**, **TypeScript**, and **Gemini** that joins real-time meetings and speaks naturally in a chosen voice. | Next.js, React, TypeScript, Gemini |
-| [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe) | Developed book review sentiment analysis using **Pandas**, **NumPy**, and **Scikit-learn**, enabling more accurate customer feedback analysis. | Python, Pandas, NumPy, Scikit-learn |
-| [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter) | Built a machine learning pipeline to predict YouTube video virality using **Python**, **Scikit-learn**, and **PyTorch**. | Python, Scikit-learn, PyTorch |
+### 🗣️ [SayLess](https://github.com/Shah-king/SayLess)
+> An AI web app that joins real-time meetings and speaks naturally in a chosen voice.
 
+Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles live audio synthesis and voice cloning in the browser.
 
-### 🏆 GitHub Highlights
+![SayLess Demo](https://raw.githubusercontent.com/Shah-king/SayLess/main/demo.png)
+<!-- Replace the above path with your actual screenshot path, e.g. public/screenshot.png or assets/preview.png -->
 
-- 💻 Contributions to open-source, academic, and personal projects  
-- 🔄 Experience with **version control**, **code reviews**, and **collaborative development**  
-- 🌟 Continuously exploring modern technologies and frameworks  
+`Next.js` `React` `TypeScript` `Gemini`
 
 ---
 
-### 📊 GitHub Stats
+### 🏋️ [ForgeArena](https://github.com/Shah-king/ForgeArena)
+> A gamified fitness tracking platform with an AI coach, quests, leaderboards, and social duels.
 
-![Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Shah-king&show_icons=true&theme=transparent)
+Full-stack RESTful API with **Node.js**, **Express**, and **Firebase** — 8+ endpoints covering auth, workouts, and ranking. Tested with **Jest**.
+
+![ForgeArena Demo](https://raw.githubusercontent.com/Shah-king/ForgeArena/main/demo.png)
+<!-- Replace the above path with your actual screenshot path -->
+
+`Node.js` `Express` `Firebase` `Jest`
 
 ---
 
-### 📈 Activity Graph
+### 📊 [AI-Trendspotter](https://github.com/Shah-king/AI-Trendspotter)
+> Predicts YouTube video virality before it happens.
 
-![Shahriar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shah-king&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1b9aaa&area=true&hide_border=true)
+ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify trending potential from video metadata.
+
+`Python` `Scikit-learn` `PyTorch`
 
 ---
 
-### 🌐 Connect with Me
+### 📚 [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)
+> Sentiment analysis on book reviews for more accurate feedback insights.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdous-shahriar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shah-king)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahriarf.netlify.app-blue?style=for-the-badge&logo=netlify)](https://shahriarf.netlify.app/)
+Built with **Pandas**, **NumPy**, and **Scikit-learn** — NLP classification on real-world review data.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+---
+
+## Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `C++` `SQL`
+
+**Frontend & Frameworks**
+`React` `Next.js` `Node.js` `Express.js` `TailwindCSS`
+
+**Databases & Cloud**
+`PostgreSQL` `MongoDB` `Firebase` `AWS`
+
+**AI / ML**
+`PyTorch` `Scikit-learn` `Pandas` `NumPy` `Hugging Face` `Matplotlib`
+
+**Tools**
+`Docker` `Postman` `Git`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Shah-king&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shah-king&bg_color=transparent&color=70a5fd&line=70a5fd&point=1b9aaa&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always open to collaborating on something interesting — feel free to reach out.*
+
+</div>
