@@ -30,11 +30,13 @@ I'm a software engineer who loves turning ideas into clean, working products —
 
 Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles live audio synthesis and voice cloning in the browser.
 
-![SayLess Demo](<img width="935" height="455" alt="image" src="https://github.com/user-attachments/assets/9181723b-8bd5-4b66-bf7b-66f78f6ebc74" />
-)
+![SayLess Demo](https://raw.githubusercontent.com/Shah-king/SayLess/main/demo.png)
 <!-- Replace the above path with your actual screenshot path, e.g. public/screenshot.png or assets/preview.png -->
 
-`Next.js` `React` `TypeScript` `Gemini`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -46,7 +48,10 @@ Full-stack RESTful API with **Node.js**, **Express**, and **Firebase** — 8+ en
 ![ForgeArena Demo](https://raw.githubusercontent.com/Shah-king/ForgeArena/main/demo.png)
 <!-- Replace the above path with your actual screenshot path -->
 
-`Node.js` `Express` `Firebase` `Jest`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
@@ -55,7 +60,9 @@ Full-stack RESTful API with **Node.js**, **Express**, and **Firebase** — 8+ en
 
 ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify trending potential from video metadata.
 
-`Python` `Scikit-learn` `PyTorch`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
@@ -64,26 +71,52 @@ ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify tren
 
 Built with **Pandas**, **NumPy**, and **Scikit-learn** — NLP classification on real-world review data.
 
-`Python` `Pandas` `NumPy` `Scikit-learn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## Tech Stack
 
 **Languages**
-`JavaScript` `TypeScript` `Python` `C++` `SQL`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend & Frameworks**
-`React` `Next.js` `Node.js` `Express.js` `TailwindCSS`
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Databases & Cloud**
-`PostgreSQL` `MongoDB` `Firebase` `AWS`
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **AI / ML**
-`PyTorch` `Scikit-learn` `Pandas` `NumPy` `Hugging Face` `Matplotlib`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
 **Tools**
-`Docker` `Postman` `Git`
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
