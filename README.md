@@ -63,7 +63,7 @@ ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify tren
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
+[![Sentiment Scribe Demo](docs/screenshots/demo.png)](https://sentimentscribe-dxa3jiatxtzq6hnzptsocb.streamlit.app/)
 ---
 
 ### 📚 [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)
