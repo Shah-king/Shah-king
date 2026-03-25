@@ -30,8 +30,8 @@ I'm a software engineer who loves turning ideas into clean, working products —
 
 Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles live audio synthesis and voice cloning in the browser.
 
-![SayLess Demo](https://raw.githubusercontent.com/Shah-king/SayLess/main/demo.png)
-<!-- Replace the above path with your actual screenshot path, e.g. public/screenshot.png or assets/preview.png -->
+🔗 [Live Demo](https://sayless.demo.link) · [GitHub Repo](https://github.com/Shah-king/SayLess)
+<!-- Replace the demo link with your actual deployed URL -->
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,8 +45,8 @@ Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles li
 
 Full-stack RESTful API with **Node.js**, **Express**, and **Firebase** — 8+ endpoints covering auth, workouts, and ranking. Tested with **Jest**.
 
-![ForgeArena Demo](https://raw.githubusercontent.com/Shah-king/ForgeArena/main/demo.png)
-<!-- Replace the above path with your actual screenshot path -->
+🔗 [Live Demo](https://forgearena.demo.link) · [GitHub Repo](https://github.com/Shah-king/ForgeArena)
+<!-- Replace the demo link with your actual deployed URL -->
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -63,7 +63,7 @@ ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify tren
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-[![Sentiment Scribe Demo](docs/screenshots/demo.png)](https://sentimentscribe-dxa3jiatxtzq6hnzptsocb.streamlit.app/)
+
 ---
 
 ### 📚 [Sentiment Scribe](https://github.com/Shah-king/SentimentScribe)
