@@ -71,7 +71,7 @@ ML pipeline using **Python**, **Scikit-learn**, and **PyTorch** to classify tren
 > Sentiment analysis on book reviews for more accurate feedback insights.
 
 Built with **Pandas**, **NumPy**, and **Scikit-learn** — NLP classification on real-world review data.
-🔗 [Live Demo](https://sentimentscribe-dxa3jiatxtzq6hnzptsocb.streamlit.app/)
+🔗 [Live Demo](https://sentimentscribe.streamlit.app/)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
