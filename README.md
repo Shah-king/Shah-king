@@ -40,18 +40,18 @@ Built with **Next.js**, **React**, **TypeScript**, and **Gemini** — handles li
 
 ---
 
-### 🏋️ [ForgeArena](https://github.com/Shah-king/ForgeArena)
-> A gamified fitness tracking platform with an AI coach, quests, leaderboards, and social duels.
+### 🏋️ [AdGen-AI](https://github.com/Shah-king/AdGen-AI)
+> AdGen-AI is an AI-powered advertising platform that helps businesses create compelling ad copy and optimize their marketing campaigns.
 
-Full-stack RESTful API with **Node.js**, **Express**, and **Firebase** — 8+ endpoints covering auth, workouts, and ranking. Tested with **Jest**.
+Full-stack RESTful API with **React(Typescript)**, **Supabase**, and **Vercel** — enabling users to generate marketing-ready visuals in seconds instead of manual design workflows using **Tailwind CSS + shadcn/ui**.
 
-🔗 [Live Demo](https://forgearena-8c99233e662d.herokuapp.com/) · [GitHub Repo](https://github.com/Shah-king/ForgeArena)
+🔗 [Live Demo](https://creative-click-generator.vercel.app/) · [GitHub Repo](https://github.com/Shah-king/AdGen-AI)
 
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 ---
 
