@@ -25,6 +25,24 @@ I'm a software engineer who loves turning ideas into clean, working products —
 
 ## Featured Projects
 
+### 🛡️ [TrustLayer](#)
+
+> An AI-powered scam protection platform that helps vulnerable communities detect, understand, and share scam warnings before people get tricked.
+
+Built with **Next.js**, **React**, **TypeScript**, and **OpenAI** — provides multilingual scam detection, fraud scoring, and community alert sharing. Targets immigrants, international students, and anyone navigating unfamiliar systems in a second language.
+
+🔗 [Live Demo](https://trustlayer-mgxu.onrender.com/) · [GitHub Repo](https://github.com/Shah-king/Hunter-Hacks)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-235A97?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat&logo=supabase&logoColor=3ECF8E)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=flat&logo=huggingface&logoColor=1a1a1a)
+
 ### 🗣️ [SayLess](https://github.com/Shah-king/SayLess)
 > An AI web app that joins real-time meetings and speaks naturally in a chosen voice.
 
