@@ -43,6 +43,23 @@ Built with **Next.js**, **React**, **TypeScript**, and **OpenAI** — provides m
 ![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=flat&logo=huggingface&logoColor=1a1a1a)
 
+### 🎧 [AudioVerse](#)
+
+> A content-based music recommendation system that evaluates and iteratively refines its own playlists using a dual-scoring pipeline — combining rule-based heuristics with a live Gemini LLM critic.
+
+Built with **Python**, **Streamlit**, and **Google Gemini** — this system implements a self-critique loop to ensure high-fidelity discovery. By balancing mathematical cosine similarity with contextual LLM reasoning, it identifies and replaces "false positive" matches that standard algorithms might miss.
+
+🔗  [GitHub Repo](https://github.com/Shah-king/AudioVerse)
+
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Dotenv](https://img.shields.io/badge/python--dotenv-ecd53f?style=flat&logoColor=black)
+
+
 ### 🗣️ [SayLess](https://github.com/Shah-king/SayLess)
 > An AI web app that joins real-time meetings and speaks naturally in a chosen voice.
 
